@@ -1,0 +1,9 @@
+name: BetterTPA
+version: ${project.version}
+main: es.serversurvival.Main
+api-version: 1.16
+authors: [Jaime]
+commands:
+  tpa:
+    description: teletransportarse
+    usage: /tpa <player>
